@@ -1,18 +1,18 @@
 {
-  "intro": "Hej",
+  "intro": "Milton Hinannt II",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/Plain-White.png",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Milton Hinnant II",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": " ",
+    "highlight": "",
+    "suffix": ""
   },
   "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
   "socialProfiles": {
